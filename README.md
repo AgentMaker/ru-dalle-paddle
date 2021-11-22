@@ -5,7 +5,7 @@ ruDALL-E in PaddlePaddle.
 Install:
 
 ```
-pip install rudalle_paddle==0.0.1rc0
+pip install rudalle_paddle==0.0.1rc1
 ```
 
 Run with free v100 on [AI Studio](https://aistudio.baidu.com/aistudio/projectdetail/2684828).
