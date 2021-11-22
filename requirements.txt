@@ -1,0 +1,7 @@
+more_itertools~=8.10.0
+youtokentome~=1.0.6
+omegaconf>=2.0.0
+paddlepaddle-gpu~=2.2.0
+paddleclip
+huggingface-hub~=0.1.2
+matplotlib
